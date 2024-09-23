@@ -21,6 +21,12 @@
 
 </div><br/>
 
+### my GitHub stats
+
+<div width="100%" align="left">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=bsensix&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=ed4a0e&bg_color=151b23&text_color=dadde2&disable_animations=false&locale=en&hide_border=true&custom_title=My%20Stats%20%26%20Organization%20Contributions&order=1" alt="stats graph"  />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsensix&locale=en&hide_title=false&layout=compact&title_color=ffffff&icon_color=ed4a0e&bg_color=151b23&text_color=dadde2&langs_count=5&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
+</div>
 
  ### Contatos:
  <div>
